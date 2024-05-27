@@ -1,0 +1,8 @@
+Model Information:
+* title:	Indigo Park - Cutouts
+* source:	https://sketchfab.com/3d-models/indigo-park-cutouts-af56ae01b2aa477c884756f0b3b37520
+* author:	MG Rips (https://sketchfab.com/MG_GameRips)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
